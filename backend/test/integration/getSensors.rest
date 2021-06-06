@@ -1,0 +1,6 @@
+GET http://localhost:8080/getSensorData
+Content-Type: application/json
+
+{
+	"userID": "6098678a1abaa7d978c54d28"
+}

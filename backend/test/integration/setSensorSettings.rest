@@ -1,0 +1,8 @@
+POST http://localhost:8080/setSensorSettings
+Content-Type: application/json
+
+{
+	"sensorName": "tesztSzenzor",
+    "user":"6098678a1abaa7d978c54d28",
+    "updateIntervall": "60"
+}

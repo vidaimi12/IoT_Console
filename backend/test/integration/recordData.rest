@@ -1,0 +1,8 @@
+POST http://localhost:8080/recordData
+Content-Type: application/json
+
+{
+	"sensorName": "Hőmérséklet-szoba",
+    "user":"60a1ac4c7a436c14e4d0ede7",
+    "value": "23.12"
+}
